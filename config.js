@@ -24,10 +24,10 @@ global.confirmCode = ""
 
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+//💌global.pairingNumber = "4915562378343" //put your bot number here💌
+global.mods = ['4915563151347'] 
+global.prems = ['4915563151347']
+global.allowed = ['4915563151347']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
